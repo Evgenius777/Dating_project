@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.remote-ssh-nightly",
+        "ms-python.vscode-pylance",
+        "tabnine.tabnine-vscode",
+        "alexcvzz.vscode-sqlite",
+        "eg2.vscode-npm-script",
+        "mtxr.sqltools"
+    ]
+}
